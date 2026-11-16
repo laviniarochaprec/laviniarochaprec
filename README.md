@@ -28,7 +28,7 @@ Trabalho na intersecção entre **analytics** e **produto**: construo dashboards
 
 ## Portfólio
 
-Dashboards com dados fictícios → **[ver portfólio](https://claude.ai/artifact/DVixZkHPzEAXMi9kPkptst)**
+Dashboards com dados fictícios → **[ver portfólio](https://claude.ai/artifact/PmbuHX1dWwredm7WZksn4C)**
 
 ---
 
